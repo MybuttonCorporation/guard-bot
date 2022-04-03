@@ -1,0 +1,26 @@
+{
+    
+    
+    "botOwner":["711886425557041172","782616096146456597"],
+    "tacSahibi": "782616096146456597",
+    "botPrefix":"*",
+    "botToken":"TOKEN",
+    "guildID":"796625201336811520",
+    "sesamk":"847869622359162908",
+    "altbaslık":"Mybutton💛",
+    "logChannelID":"841679150057127946",
+    "channelGuard":true,
+    "roleGuard":true,
+    "serverGuard":true,
+    "botGuard":true,
+    "banGuard":true,
+    "kickGuard":true,
+    "whitelist":["782616096146456597","711886425557041172","939821670791782421","936193848709906443","951498414712049685"],
+    "boosterRole":"",
+    "jailRole":"841935982080950282",
+    "oynuyor":["Mybutton 💛","Mybutton 💚","Mybutton 💜","Mybutton 💓","Mybutton 💙","Mybutton 🖤"],
+    "Sunucu": {"Sunucuadı": "", "SunucuURL": "","Sunucuresmi": "https://cdn.discordapp.com/avatars/917841473913888788/baa54222946a0f011247de72b3f2e498.png?size=1024","Sunucuafişi":"https://cdn.discordapp.com/avatars/917841473913888788/baa54222946a0f011247de72b3f2e498.png?size=1024"},
+    "Roller": {"Kurucu": "","Altkurucu": "","Ceo": ""}
+
+
+}

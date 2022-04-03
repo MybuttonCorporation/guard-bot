@@ -1,0 +1,18 @@
+{
+  "name": "null-guard",
+  "version": "0.0.4",
+  "description": "Sunucunuzda kullanabileceğiniz basit guard sistemi.",
+  "main": "null.js",
+  "scripts": {
+    "test": "node null.js"
+  },
+  "author": "null-mustafa",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  },
+  "keywords": []
+}
